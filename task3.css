@@ -1,0 +1,25 @@
+﻿body{width:1273px;
+font-size:12px;}
+.element, .team, .introduction, .logo{padding:20px;
+background-color:#eee; border:1px #999 solid;
+margin:5px 5px 5px 5px;}
+.word{vertical-align:top;}
+.element{width:auto
+vertical-align:middle;}
+.team{width:200px;
+float:left}
+.logo1{width:80px;
+height:80px;
+margin:5px 5px 5px 5px;}
+.introduction{width:735px;
+float:left;}
+#title{text-align:center;
+font-size:16px;
+font-weight:bold;}
+.logo{width:120px;
+float:right;}
+.logo11{vertical-align:text-top;            
+width:80px;
+height:80px;
+margin:5px 5px 5px 5px;}   <!-----vertical-align 用于设定文字与图片的位置关系------>
+
